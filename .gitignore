@@ -348,3 +348,10 @@ MigrationBackup/
 
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
+
+**/BenchmarkDotNet.Artifacts/*
+**/project.lock.json
+artifacts/*
+tests/output/*
+.vs/restore.dg
+BDN.Generated
